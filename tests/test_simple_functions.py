@@ -1,5 +1,4 @@
 import pytest
-
 from simple_functions import my_sum, factorial
 
 
