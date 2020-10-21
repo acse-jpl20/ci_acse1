@@ -1,5 +1,5 @@
-
-__all__ = ['my_sum','factorial']
+from functools import lru_cache
+__all__ = ['my_sum', 'factorial']
 
 
 def my_sum(iterable):
